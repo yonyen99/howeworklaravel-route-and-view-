@@ -26,3 +26,6 @@ Route::get('/join', function () {
 Route::get('/news', function () {
     return view('pages.news');
 });
+Route::get('/contact', function () {
+    return view('pages.contactUs');
+});

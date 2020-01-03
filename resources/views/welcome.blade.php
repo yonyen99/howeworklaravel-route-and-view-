@@ -97,7 +97,7 @@
                     <a href="http://127.0.0.1:8000/about">About Us</a>
                     <a href="http://127.0.0.1:8000/join">Join Us</a>
                     <a href="http://127.0.0.1:8000/news">New</a>
-                    <a href="https://nova.laravel.com">Contact Us</a>
+                    <a href="http://127.0.0.1:8000/contact">Contact Us</a>
                    
                 </div>
             </div>
